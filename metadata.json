@@ -1,0 +1,7 @@
+{
+  "name": "Imene Ahmed Omar - Professional Portfolio",
+  "description": "A clean, minimal, and professional portfolio for Imene Ahmed Omar. Features password-protected owner editing, print-ready layout, and sections for certifications, experience, projects, and research.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
